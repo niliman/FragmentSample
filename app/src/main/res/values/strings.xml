@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">FragmentSample</string>
-    <string name="hello_world">Hello!</string>
+    <string name="hello_world">Helloo!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
